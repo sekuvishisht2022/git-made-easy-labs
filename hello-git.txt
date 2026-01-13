@@ -4,3 +4,6 @@ My First Git Repo
 # Edit Below this Line
 # --------------------
 This is my first Git commit
+
+
+Changes made directly on Github.com
