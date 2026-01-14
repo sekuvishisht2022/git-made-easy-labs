@@ -10,3 +10,4 @@ Changes made directly on Github.com
 Feature branch update
 log-demo: line 1
 log-demo: line 2stash-demo: uncommitted change
+revert-demo : bad idea
