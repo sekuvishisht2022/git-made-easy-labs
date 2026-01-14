@@ -8,3 +8,4 @@ This is my first Git commit
 
 Changes made directly on Github.com
 Feature branch update
+log-demo: line 1
